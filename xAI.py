@@ -6,6 +6,7 @@ import nest_asyncio
 import asyncio
 import os
 
+
 # מאפשר הרצת לולאות אירועים מקוננות
 nest_asyncio.apply()
 
